@@ -12,5 +12,5 @@ A Minimal Viable Product, only with the bare necessities.
 Software Used -
 GameMaker Studio 1.4
 
-Inspired From-
+Inspired From -
 Tank Trouble
