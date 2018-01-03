@@ -5,7 +5,7 @@ My attempt in trying to make a Tanks Top-Down Shooter, as a self-learning tutori
 Feel free to use as per Desired.
 
 
-Latest Version[v0.1] -
+Latest Version[v0.2] -
 A Minimal Viable Product, only with the bare necessities.
 
 
