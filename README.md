@@ -5,8 +5,9 @@ My attempt in trying to make a Tanks Top-Down Shooter, as a self-learning tutori
 Feel free to use as per Desired.
 
 
-Latest Version[v0.3] -
-A Minimal Viable Product, only with the bare necessities.
+Latest Version[v0.4] -
+A Pre-Alpha, 3 maps and 2 powerups.
+Only PvP right now.
 
 
 Software Used -
@@ -17,5 +18,7 @@ Tank Trouble
 
 Change Log - 
 Physics is now better.
-No jittering in physics based mouse movement.
-1 new powerup has been added.
+Non-Phyics simulation removed.
+A lobby has been implemented.
+Sprited updated.
+1 new arena has been made.
