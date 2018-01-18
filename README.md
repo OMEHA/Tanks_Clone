@@ -5,7 +5,7 @@ My attempt in trying to make a Tanks Top-Down Shooter, as a self-learning tutori
 Feel free to use as per Desired.
 
 
-Latest Version[v0.4.5] -
+Latest Version[v0.4.9] -
 A Pre-Alpha, 4 maps, 4 powerups, lobby, start screen.
 Only PvP right now.
 
@@ -19,7 +19,8 @@ Tank Trouble
 
 
 Change Log - 
-Sprited updated.
-Collision shape changed.
-1 new arena has been made.
-2 new powerups.
+Bug fixes.
+Arena 3 has been updated.
+UI changes.
+Power-ups' spawn time changed.
+Tanks' movement is now faster.
