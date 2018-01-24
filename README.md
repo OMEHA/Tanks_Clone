@@ -5,8 +5,8 @@ My attempt in trying to make a Tanks Top-Down Shooter, as a self-learning tutori
 Feel free to use as per Desired.
 
 
-Latest Version[v0.4.9] -
-A Pre-Alpha, 4 maps, 4 powerups, lobby, start screen.
+Latest Version[v0.5] -
+A Pre-Alpha, 3 maps, 4 powerups, lobby, start screen, sound effects.
 Only PvP right now.
 
 
@@ -20,7 +20,5 @@ Tank Trouble
 
 Change Log - 
 Bug fixes.
-Arena 3 has been updated.
-UI changes.
-Power-ups' spawn time changed.
-Tanks' movement is now faster.
+Powerups spawn faster.
+Sound effects added.
