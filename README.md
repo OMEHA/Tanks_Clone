@@ -11,7 +11,7 @@ Only PvP right now.
 
 
 Software Used -
-GameMaker Studio 1.4
+GameMaker Studio 1.4.1567
 
 
 Inspired From -
